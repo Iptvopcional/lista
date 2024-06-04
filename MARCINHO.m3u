@@ -21,8 +21,6 @@ http://evpp.mm.uol.com.br:1935/bandpracas/debatemg/playlist.m3u8
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w2009673231.m3u8
 #EXTINF:-1 tvg-id="https://tvonline.global/" tvg-logo="http://www.melhorsite.xyz/wp-content/uploads/2020/12/BONS-TEMPOS-TV-138x93.png" group-title="CANAIS: CLÁSSICOS | DESENHOS | FILMES | SERIADOS", BONS TEMPOS
 https://stmv1.srvif.com/canal29/canal29/chunklist_w1550228250.m3u8
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/f24169065abbca5112493217775b6172.jpg" group-title="CANAIS: VARIEDADES", BRAZITV
-https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ff768b6a4c8b80008498610/colorLogoPNG.png" group-title="CANAIS: ENTRETENIMENTO", BET TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff768b6a4c8b80008498610/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/brasiloeste.png" group-title="CANAIS: VARIEDADES", BRASIL OESTE (MT)
@@ -56,20 +54,20 @@ https://br5093.streamingdevideo.com.br/abc/abc/chunklist_w467414107.m3u8
 https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8
 #EXTINF:-1 tvg-id="https://www.cxtv.com.br/" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/28210d4e070cd9ecede7cdd61383ec9c.jpg" group-title="CANAIS: VARIEDADES", CANAL TV RIO
 https://cdn.live.br1.jmvstream.com/w/AVJ-15127/playlist/chunklist.m3u8
-#EXTINF:-1 tvg-id="https://www.cxtv.com.br/" tvg-logo="http://i.imgur.com/KMXfp4h.png" group-title="CANAIS: VARIEDADES", CNT SP
-https://cloudflare.cdn.spalla.io/live/2b512662-a40f-46ef-b540-e8ee3f5bb1fb/s1/playlist-480p.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJiZXkiOnRydWUsImV4cCI6MTcxNzAyMzM4OSwiaWF0IjoxNzE2NDE4NTg5LCJpZCI6IjAxOGZhMjg1LTJmNGMtNzcxOC1iNzhkLTU0YTNlOGFiY2U0NyIsIm5iZiI6MTcxNjQxNjc4OSwicmF1IjpbXSwidWlkIjoiMDE4ZmEyODUtMmY0Yy03NzE4LWI3OGQtNTRhM2U4YWJjZTQ3IiwidXJpX3N1YiI6Ii8yYjUxMjY2Mi1hNDBmLTQ2ZWYtYjU0MC1lOGVlM2Y1YmIxZmIvIn0.9WG8yfRKBg6aODeo31qjAsurELOTpdTg9K_hmG8B-l0&uid=018fa285-2f4c-7718-b78d-54a3e8abce47&
-#EXTINF:-1 tvg-id="https://www.cxtv.com.br/" tvg-logo="http://i.imgur.com/KMXfp4h.png" group-title="CANAIS: VARIEDADES", CNT RJ
-https://cloudflare.cdn.spalla.io/live/c125dfb2-87ee-40b9-bf6f-566072c05e84/s1/playlist-480p.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJiZXkiOnRydWUsImV4cCI6MTcxNzAyMzc0MSwiaWF0IjoxNzE2NDE4OTQxLCJpZCI6IjAxOGZhMjg1LTJmNGMtNzcxOC1iNzhkLTU0YTNlOGFiY2U0NyIsIm5iZiI6MTcxNjQxNzE0MSwicmF1IjpbXSwidWlkIjoiMDE4ZmEyODUtMmY0Yy03NzE4LWI3OGQtNTRhM2U4YWJjZTQ3IiwidXJpX3N1YiI6Ii9jMTI1ZGZiMi04N2VlLTQwYjktYmY2Zi01NjYwNzJjMDVlODQvIn0.9B5wWWmDftRfXCF8qv8uoMt-PKjtqExESZoB-eZ8R0I&uid=018fa285-2f4c-7718-b78d-54a3e8abce47&
-#EXTINF:-1 tvg-id="https://www.cxtv.com.br/" tvg-logo="http://i.imgur.com/KMXfp4h.png" group-title="CANAIS: VARIEDADES", CNT RS
-https://cloudflare.cdn.spalla.io/live/28496f6e-83f6-4167-943b-8bdad7991bb5/s1/playlist-480p.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJiZXkiOnRydWUsImV4cCI6MTcxNzAyMzkyMSwiaWF0IjoxNzE2NDE5MTIxLCJpZCI6IjAxOGZhMjg1LTJmNGMtNzcxOC1iNzhkLTU0YTNlOGFiY2U0NyIsIm5iZiI6MTcxNjQxNzMyMSwicmF1IjpbXSwidWlkIjoiMDE4ZmEyODUtMmY0Yy03NzE4LWI3OGQtNTRhM2U4YWJjZTQ3IiwidXJpX3N1YiI6Ii8yODQ5NmY2ZS04M2Y2LTQxNjctOTQzYi04YmRhZDc5OTFiYjUvIn0.5x6fOCti_EwZ6q1tjaRCYR7jzYdSwfv_GIuZabFK1tg&uid=018fa285-2f4c-7718-b78d-54a3e8abce47&
-#EXTINF:-1 tvg-id="https://www.cxtv.com.br/" tvg-logo="http://i.imgur.com/KMXfp4h.png" group-title="CANAIS: VARIEDADES", CNT PR - Curitiba
-https://cloudflare.cdn.spalla.io/live/c0fbab1d-8ad6-4b6c-b053-b30a89b02110/s1/playlist-480p.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJiZXkiOnRydWUsImV4cCI6MTcxNzAyNDEwNSwiaWF0IjoxNzE2NDE5MzA1LCJpZCI6IjAxOGZhMjg1LTJmNGMtNzcxOC1iNzhkLTU0YTNlOGFiY2U0NyIsIm5iZiI6MTcxNjQxNzUwNSwicmF1IjpbXSwidWlkIjoiMDE4ZmEyODUtMmY0Yy03NzE4LWI3OGQtNTRhM2U4YWJjZTQ3IiwidXJpX3N1YiI6Ii9jMGZiYWIxZC04YWQ2LTRiNmMtYjA1My1iMzBhODliMDIxMTAvIn0.R1nMCaiy40CNjBxU1NWHakBX9rzRJ1fLXVWfkxctLVI&uid=018fa285-2f4c-7718-b78d-54a3e8abce47&
-#EXTINF:-1 tvg-id="https://www.cxtv.com.br/" tvg-logo="http://i.imgur.com/KMXfp4h.png" group-title="CANAIS: VARIEDADES", CNT PR - Londrina
-https://cloudflare.cdn.spalla.io/live/cb4a055c-36e9-489c-88bc-e225dc6ac594/s1/playlist-480p.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJiZXkiOnRydWUsImV4cCI6MTcxNzAyNDExOSwiaWF0IjoxNzE2NDE5MzE5LCJpZCI6IjAxOGZhMjg1LTJmNGMtNzcxOC1iNzhkLTU0YTNlOGFiY2U0NyIsIm5iZiI6MTcxNjQxNzUxOSwicmF1IjpbXSwidWlkIjoiMDE4ZmEyODUtMmY0Yy03NzE4LWI3OGQtNTRhM2U4YWJjZTQ3IiwidXJpX3N1YiI6Ii9jYjRhMDU1Yy0zNmU5LTQ4OWMtODhiYy1lMjI1ZGM2YWM1OTQvIn0.-BdiyK3bmGPafKV8E32PsvtiISNKcnxUpK20f6DQVXE&uid=018fa285-2f4c-7718-b78d-54a3e8abce47&
-#EXTINF:-1 tvg-id="https://www.cxtv.com.br/" tvg-logo="http://i.imgur.com/KMXfp4h.png" group-title="CANAIS: VARIEDADES", CNT BA - Salvador
-https://cloudflare.cdn.spalla.io/live/c0fbab1d-8ad6-4b6c-b053-b30a89b02110/s1/playlist-480p.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJiZXkiOnRydWUsImV4cCI6MTcxNzAyNDEwNSwiaWF0IjoxNzE2NDE5MzA1LCJpZCI6IjAxOGZhMjg1LTJmNGMtNzcxOC1iNzhkLTU0YTNlOGFiY2U0NyIsIm5iZiI6MTcxNjQxNzUwNSwicmF1IjpbXSwidWlkIjoiMDE4ZmEyODUtMmY0Yy03NzE4LWI3OGQtNTRhM2U4YWJjZTQ3IiwidXJpX3N1YiI6Ii9jMGZiYWIxZC04YWQ2LTRiNmMtYjA1My1iMzBhODliMDIxMTAvIn0.R1nMCaiy40CNjBxU1NWHakBX9rzRJ1fLXVWfkxctLVI&uid=018fa285-2f4c-7718-b78d-54a3e8abce47&
-#EXTINF:-1 tvg-id="https://www.cxtv.com.br/" tvg-logo="http://i.imgur.com/KMXfp4h.png" group-title="CANAIS: VARIEDADES", CNT MT - Cuiabá
-https://cloudflare.cdn.spalla.io/live/974e28f6-887e-4831-94ca-06abf1a80c66/s1/playlist-480p.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJiZXkiOnRydWUsImV4cCI6MTcxNzAyNTM1OSwiaWF0IjoxNzE2NDIwNTU5LCJpZCI6IjAxOGZhMjg1LTJmNGMtNzcxOC1iNzhkLTU0YTNlOGFiY2U0NyIsIm5iZiI6MTcxNjQxODc1OSwicmF1IjpbXSwidWlkIjoiMDE4ZmEyODUtMmY0Yy03NzE4LWI3OGQtNTRhM2U4YWJjZTQ3IiwidXJpX3N1YiI6Ii85NzRlMjhmNi04ODdlLTQ4MzEtOTRjYS0wNmFiZjFhODBjNjYvIn0.HVvlazIAB2rU3heLDGYTaEzy7x5yi7umyeU1bMgmz8Q&uid=018fa285-2f4c-7718-b78d-54a3e8abce47&
+#EXTINF:-1 tvg-id="https://www.olhosnatv.com.br/" tvg-logo="http://i.imgur.com/KMXfp4h.png" group-title="CANAIS: VARIEDADES", CNT SP
+https://cloudflare.cdn.spalla.io/live/2b512662-a40f-46ef-b540-e8ee3f5bb1fb/s1/playlist-480p.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJiZXkiOnRydWUsImV4cCI6MTcxODExMTgxNSwiaWF0IjoxNzE3NTA3MDE1LCJpZCI6IjAxOGZhMjg1LTJmNGMtNzcxOC1iNzhkLTU0YTNlOGFiY2U0NyIsIm5iZiI6MTcxNzUwNTIxNSwicmF1IjpbXSwidWlkIjoiMDE4ZmEyODUtMmY0Yy03NzE4LWI3OGQtNTRhM2U4YWJjZTQ3IiwidXJpX3N1YiI6Ii8yYjUxMjY2Mi1hNDBmLTQ2ZWYtYjU0MC1lOGVlM2Y1YmIxZmIvIn0.tEmYV83Vt2IuM-UOtN8Z11fpjMQicq2DUx_6uzwWGvI&uid=018fa285-2f4c-7718-b78d-54a3e8abce47&
+#EXTINF:-1 tvg-id="https://www.olhosnatv.com.br/" tvg-logo="http://i.imgur.com/KMXfp4h.png" group-title="CANAIS: VARIEDADES", CNT RJ
+https://cloudflare.cdn.spalla.io/live/c125dfb2-87ee-40b9-bf6f-566072c05e84/s1/playlist-480p.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJiZXkiOnRydWUsImV4cCI6MTcxODEyMTQxNywiaWF0IjoxNzE3NTE2NjE3LCJpZCI6IjAxOGZhMjg1LTJmNGMtNzcxOC1iNzhkLTU0YTNlOGFiY2U0NyIsIm5iZiI6MTcxNzUxNDgxNywicmF1IjpbXSwidWlkIjoiMDE4ZmEyODUtMmY0Yy03NzE4LWI3OGQtNTRhM2U4YWJjZTQ3IiwidXJpX3N1YiI6Ii9jMTI1ZGZiMi04N2VlLTQwYjktYmY2Zi01NjYwNzJjMDVlODQvIn0.i9cZ89S2v2LGTQBn_dR3vfoul9N8bOlcB8PJPWS3Pp8&uid=018fa285-2f4c-7718-b78d-54a3e8abce47&
+#EXTINF:-1 tvg-id="https://www.olhosnatv.com.br/" tvg-logo="http://i.imgur.com/KMXfp4h.png" group-title="CANAIS: VARIEDADES", CNT RS - PORTO ALEGRE
+https://cloudflare.cdn.spalla.io/live/28496f6e-83f6-4167-943b-8bdad7991bb5/s1/playlist-480p.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJiZXkiOnRydWUsImV4cCI6MTcxODEyMzA0MSwiaWF0IjoxNzE3NTE4MjQxLCJpZCI6IjAxOGZhMjg1LTJmNGMtNzcxOC1iNzhkLTU0YTNlOGFiY2U0NyIsIm5iZiI6MTcxNzUxNjQ0MSwicmF1IjpbXSwidWlkIjoiMDE4ZmEyODUtMmY0Yy03NzE4LWI3OGQtNTRhM2U4YWJjZTQ3IiwidXJpX3N1YiI6Ii8yODQ5NmY2ZS04M2Y2LTQxNjctOTQzYi04YmRhZDc5OTFiYjUvIn0.H9V2NZ1BVz5uaKayRI8oBIaIDR9VCFl29IRsbD8YXjI&uid=018fa285-2f4c-7718-b78d-54a3e8abce47&
+#EXTINF:-1 tvg-id="https://www.olhosnatv.com.br/" tvg-logo="http://i.imgur.com/KMXfp4h.png" group-title="CANAIS: VARIEDADES", CNT PR - Curitiba
+https://cloudflare.cdn.spalla.io/live/ee4d3ab8-a162-42d8-a4d0-e4ae03f9224a/s1/playlist-480p.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJiZXkiOnRydWUsImV4cCI6MTcxODEyMzM3NSwiaWF0IjoxNzE3NTE4NTc1LCJpZCI6IjAxOGZhMjg1LTJmNGMtNzcxOC1iNzhkLTU0YTNlOGFiY2U0NyIsIm5iZiI6MTcxNzUxNjc3NSwicmF1IjpbXSwidWlkIjoiMDE4ZmEyODUtMmY0Yy03NzE4LWI3OGQtNTRhM2U4YWJjZTQ3IiwidXJpX3N1YiI6Ii9lZTRkM2FiOC1hMTYyLTQyZDgtYTRkMC1lNGFlMDNmOTIyNGEvIn0.X1Et8YLjUn7xwKym1EN1YZXJH7TgxWaWYX5Qfmjqvvo&uid=018fa285-2f4c-7718-b78d-54a3e8abce47&
+#EXTINF:-1 tvg-id="https://www.olhosnatv.com.br/" tvg-logo="http://i.imgur.com/KMXfp4h.png" group-title="CANAIS: VARIEDADES", CNT PR - Londrina
+https://cloudflare.cdn.spalla.io/live/cb4a055c-36e9-489c-88bc-e225dc6ac594/s1/playlist-480p.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJiZXkiOnRydWUsImV4cCI6MTcxODEyMzQzMiwiaWF0IjoxNzE3NTE4NjMyLCJpZCI6IjAxOGZhMjg1LTJmNGMtNzcxOC1iNzhkLTU0YTNlOGFiY2U0NyIsIm5iZiI6MTcxNzUxNjgzMiwicmF1IjpbXSwidWlkIjoiMDE4ZmEyODUtMmY0Yy03NzE4LWI3OGQtNTRhM2U4YWJjZTQ3IiwidXJpX3N1YiI6Ii9jYjRhMDU1Yy0zNmU5LTQ4OWMtODhiYy1lMjI1ZGM2YWM1OTQvIn0.7jDT9xZRoDLKIiAP1f950NF3p17vpE4aF3hnMbxGKNE&uid=018fa285-2f4c-7718-b78d-54a3e8abce47&
+#EXTINF:-1 tvg-id="https://www.olhosnatv.com.br/" tvg-logo="http://i.imgur.com/KMXfp4h.png" group-title="CANAIS: VARIEDADES", CNT BA - Salvador
+https://cloudflare.cdn.spalla.io/live/c0fbab1d-8ad6-4b6c-b053-b30a89b02110/s1/playlist-480p.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJiZXkiOnRydWUsImV4cCI6MTcxODExMjc4MiwiaWF0IjoxNzE3NTA3OTgyLCJpZCI6IjAxOGZhMjg1LTJmNGMtNzcxOC1iNzhkLTU0YTNlOGFiY2U0NyIsIm5iZiI6MTcxNzUwNjE4MiwicmF1IjpbXSwidWlkIjoiMDE4ZmEyODUtMmY0Yy03NzE4LWI3OGQtNTRhM2U4YWJjZTQ3IiwidXJpX3N1YiI6Ii9jMGZiYWIxZC04YWQ2LTRiNmMtYjA1My1iMzBhODliMDIxMTAvIn0.OQ3pyJxP6q8Pbtlmt-B0SzvFS4FZfMngn5I-ntZqOa0&uid=018fa285-2f4c-7718-b78d-54a3e8abce47&
+#EXTINF:-1 tvg-id="https://www.olhosnatv.com.br/" tvg-logo="http://i.imgur.com/KMXfp4h.png" group-title="CANAIS: VARIEDADES", CNT MT - Cuiabá
+https://cloudflare.cdn.spalla.io/live/974e28f6-887e-4831-94ca-06abf1a80c66/s1/playlist-480p.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJiZXkiOnRydWUsImV4cCI6MTcxODEyMzgwMSwiaWF0IjoxNzE3NTE5MDAxLCJpZCI6IjAxOGZhMjg1LTJmNGMtNzcxOC1iNzhkLTU0YTNlOGFiY2U0NyIsIm5iZiI6MTcxNzUxNzIwMSwicmF1IjpbXSwidWlkIjoiMDE4ZmEyODUtMmY0Yy03NzE4LWI3OGQtNTRhM2U4YWJjZTQ3IiwidXJpX3N1YiI6Ii85NzRlMjhmNi04ODdlLTQ4MzEtOTRjYS0wNmFiZjFhODBjNjYvIn0.7C08ohfqytIMJ0uYuqnCjgTJFGWaVxbPlHNu1XBjLBc&uid=018fa285-2f4c-7718-b78d-54a3e8abce47&
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f357e91b18f0b00073583d2/colorLogoPNG.png" group-title="CANAIS: HUMOR", COMEDY CENTRAL
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f357e91b18f0b00073583d2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://www.fontedoscanais.xyz/logos/canais/comedycentral.png" group-title="CANAIS: HUMOR", COMEDY CENTRAL (720p)
@@ -109,10 +107,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f5a545d0dbf7f0007c094
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fa15ad6367e170007cdd098/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f5141c1605ddf000748eb1b/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur" group-title="CANAIS: HUMOR", FAILARMY
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f5141c1605ddf000748eb1b/master.m3u8?advertisingId=&appName=web&appVersion=5.11.1-2a66a4913105edf0ba49fadd1a6875693b09e78c&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=65e4a7cf-0b18-4b0a-97d2-7eadc239c740&deviceLat=-22.4545&deviceLon=-41.9492&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=BR&sid=787d788c-3e55-11eb-a8d7-0242ac110002&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f5141c1605ddf000748eb1b/colorLogoPNG.png" group-title="CANAIS: HUMOR", FAILARMY
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f5141c1605ddf000748eb1b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f516730b78b7600079294f5/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur" group-title="CANAIS: MODA", FASHIONBOX
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f516730b78b7600079294f5/master.m3u8?advertisingId=&appName=web&appVersion=5.11.1-2a66a4913105edf0ba49fadd1a6875693b09e78c&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=65e4a7cf-0b18-4b0a-97d2-7eadc239c740&deviceLat=-22.4545&deviceLon=-41.9492&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=BR&sid=6a1641cd-3e54-11eb-91f7-0242ac110002&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/gospel.jpg" group-title="CANAIS: FILMES", GOSPEL MOVIE TV
 https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
@@ -186,8 +180,6 @@ https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/chunklist.m3u8
 https://5cf4a2c2512a2.streamlock.net/8016/8016/chunklist_w2069646116.m3u8
 #EXTINF:-1 tvg-id="https://supertvaovivo.com/" tvg-logo="https://supertvaovivo.com/wp-content/uploads/2021/07/record-news.jpg" group-title="CANAIS RECORD", RECORD NEWS ES
 https://5cf4a2c2512a2.streamlock.net/8016/8016/chunklist_w1868079881.m3u8
-#EXTINF:-1 tvg-id="https://tv0800.xyz/" tvg-logo="https://tv0800.xyz/wp-content/uploads/2020/09/rede-premium.png" group-title="CANAIS: VARIEDADES", REDE PREMIUM
-https://5c483b9d1019c.streamlock.net/8066/8066/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png" group-title="CANAIS: VARIEDADES", REDETV
 https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/chunklist_w1145706398.m3u8
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-sJjvlG8gOr4/XuQS8PqgtRI/AAAAAAAAC_0/-XEes5rflGoCwz7T6AgKhKcMvsyblSRsACLcBGAsYHQ/s320/Screenshot_2020-06-12-20-38-21.png" group-title="CANAIS: VARIEDADES", REDETV
@@ -223,9 +215,7 @@ https://cdn.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/redetvriosul.png" group-title="CANAIS: VARIEDADES", REDE TV SUL - WEBTV
 https://novo.bitstreaming.info:1936/8032/8032/playlist.m3u8
 #EXTINF:-1 tvg-id="https://www.cxtv.com.br/" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/96ed4934fbcf5351314bfabfd78a976c.webp" group-title="CANAIS: VARIEDADES", REDE MINAS MG - Belo Horizonte
-https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/chunklist_b643072.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/NOM0NvO.png" group-title="CANAIS: VARIEDADES", REDE PREMIUM TV
-https://5c483b9d1019c.streamlock.net/8066/8066/playlist.m3u8
+https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/chunklist_w89976065_b2771072.m3u8
 #EXTINF:-1 tvg-id="https://www.cxtv.com.br/" tvg-logo="https://imgur.com/n4RVl9W.png" group-title="CANAIS: VARIEDADES", REDE UTV BRASIL SP - Descalvado
 https://utvcdn.acessaradios.com.br/utvcdn/utvcdn.stream/chunklist_w1885837510.m3u8
 
@@ -244,8 +234,6 @@ https://video01.kshost.com.br/antonio9510/antonio9510/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSppL6n53PBbAfSGmT7iTtb3DxFJnshjqljGw&usqp=CAU" group-title="CANAIS: FILMES 24 HORAS", TELECINE ACTION (390p)
 http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f121262a189a800076b9386/colorLogoPNG.png" group-title="CANAIS: ENTRETENIMENTO", TV SÉRIES
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f121262a189a800076b9386/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61b790b985706b00072cb797/colorLogoPNG.png" group-title="CANAIS: FILMES 24 HORAS", TV ADRENALINA FREEZONE
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61b790b985706b00072cb797/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="ext" group-title="CANAIS: HUMOR", THE PET COLLECTIVE (720p)
@@ -268,8 +256,6 @@ https://stmv1.paineltv.net/tvjapi/tvjapi/chunklist_w430347253.m3u8
 https://tvbrasil-stream.ebc.com.br/chunks.m3u8
 #EXTINF:-1 tvg-id="https://supertvaovivo.com/" tvg-logo="https://supertvaovivo.com/wp-content/uploads/2021/06/tela-viva-tv-150x150.jpg" group-title="CANAIS: DESENHOS | FILMES | SERIADOS | VARIEDADES", TELA VIVA TV
 https://srv4.zcast.com.br/telavivatv/telavivatv/chunklist_w1609777683.m3u8
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-yGl00jP5wz0/XT8olJHsfEI/AAAAAAAABX0/VIWzge0KCcsdJqaJ3CLerYsfvMLsQPx4ACPcBGAYYCw/s320/Screenshot_2019-07-29-13-59-18.png" group-title="CANAIS: VARIEDADES", TVE
-http://200.189.113.201/hls/tve.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/CEvLASJ.png" group-title="CANAIS: VARIEDADES", TVE ES
 http://rbc.directradios.com:1935/rbc/smil:rbc.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/396e2fb0d045414e3b916d4c9a00f602.jpg" group-title="CANAIS: FILMES | VARIEDADES", TV DESTAK
@@ -301,7 +287,7 @@ http://flash.softhost.com.br:1935/ufg/tvufgweb/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/uYL8YCF.png" group-title="CANAIS: VARIEDADES", TV UFG HD
 http://wowza.softhost.com.br:1935/ufg/smil:tvufgweb/chunklist_w1120468120_b1544100_sleng.m3u8?PEDROJUNIORTUTORIAIS
 #EXTINF:-1 tvg-id="https://www.olhosnatv.com.br/?m=1" tvg-logo="https://1.bp.blogspot.com/-MIGZJ45yiak/YTD0rVWsJRI/AAAAAAAAFRE/ksLCYlZQ5xEAkpBizPg95GgwI5VsVc6LACLcBGAsYHQ/s200/TV%2BGAZETA.webp" group-title="CANAIS: VARIEDADES", TV GAZETA SP (TVC Araçatuba)
-https://5ad482a77183d.streamlock.net/financeirotvc21.com.br/financeirotvc21.com.br/chunklist_w510223076.m3u8
+https://video02.logicahost.com.br/tvc21/tvc21/chunklist_w107217771.m3u8
 #EXTINF:-1 tvg-id="https://www.olhosnatv.com.br/?m=1" tvg-logo="https://1.bp.blogspot.com/-MIGZJ45yiak/YTD0rVWsJRI/AAAAAAAAFRE/ksLCYlZQ5xEAkpBizPg95GgwI5VsVc6LACLcBGAsYHQ/s200/TV%2BGAZETA.webp" group-title="CANAIS: VARIEDADES", TV GAZETA MA (TV Alternativa)
 https://stmv5.samcast.com.br/wagner7919/wagner7919/chunklist_w1240852215.m3u8
 #EXTINF:-1 tvg-id="https://www.olhosnatv.com.br/?m=1" tvg-logo="https://1.bp.blogspot.com/-MIGZJ45yiak/YTD0rVWsJRI/AAAAAAAAFRE/ksLCYlZQ5xEAkpBizPg95GgwI5VsVc6LACLcBGAsYHQ/s200/TV%2BGAZETA.webp" group-title="CANAIS: VARIEDADES", TV GAZETA PA (TV Grão Pará)
@@ -332,14 +318,12 @@ https://video04.logicahost.com.br/tvaracati/tvaracati/chunklist_w95153286.m3u8
 https://5c483b9d1019c.streamlock.net/8202/8202/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/zoom.png" group-title="CANAIS: VARIEDADES", TV ZOOM
 https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/master.png" group-title="CANAIS: VARIEDADES", TV MASTER
-https://virtues.es:1936/tvmaster/tvmaster/playlist.m3u8
 #EXTINF:-1 tvg-id="https://www.cxtv.com.br/" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ca08395b7d600c7f467224100d43beda.webp" group-title="CANAIS: VARIEDADES", TV FUTURO RN - Natal
 https://tv02.zas.media:1936/tvfuturo/tvfuturo/chunklist_w1146464277.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/P2iLxFP.png" group-title="CANAIS: VARIEDADES", TV POCOS
 https://live.cdn.upx.com/00084/myStream.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IVUjkii.png" group-title="CANAIS: VARIEDADES", TV PARANA TURISMO
-http://200.189.113.201/hls/tve.m3u8
+#EXTINF:-1 tvg-id="https://www.cxtv.com.br/" tvg-logo="https://i.imgur.com/IVUjkii.png" group-title="CANAIS: VARIEDADES", TV PARANA TURISMO PR - Curitiba
+https://aovivo.paranaeducativa.pr.gov.br/hls/tve.m3u8
 #EXTINF:-1 tvg-id="https://www.cxtv.com.br/" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/242ff3bef11d573de2ebdc46ac7c0ddf.webp" group-title="CANAIS: VARIEDADES", TV BELTRAO PR - Francisco Beltrão
 https://5cf4a2c2512a2.streamlock.net/tvbeltrao/tvbeltrao/chunklist_w67428933.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/kclL9nZ.png" group-title="CANAIS: VARIEDADES", TV UFSC
@@ -434,8 +418,6 @@ https://cdn.jmvstream.com/w/LVW-8067/ngrp:LVW8067_ZffQjxn7UC_all/chunklist.m3u8
 https://stmv5.samcast.com.br/cesarvieira8491/cesarvieira8491/chunklist_w1234181934.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/fmGNohE.png" group-title="CANAIS: VARIEDADES", TV GALEGA
 https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/playlist.m3u8
-#EXTINF:-1 tvg-id="https://www.cxtv.com.br/" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/266f4b3859b4567a2a1e29e43ec23b72.webp" group-title="CANAIS: VARIEDADES", TV DAS ARTES SP - Embu
-https://stmv7.samcast.com.br/luca8510/luca8510/chunklist_w1979444524.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/L2ib2Mg.png" group-title="CANAIS: VARIEDADES", TV OMINDARE
 https://video01.kshost.com.br/lourdes52007/lourdes52007/chunklist.m3u8
 #EXTINF:-1 tvg-id="https://www.cxtv.com.br/" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/58399bd0987147a2d4380e3a8cdbee1c.webp" group-title="CANAIS: VARIEDADES", TV VIDEONEWS SP - Osasco
@@ -456,8 +438,6 @@ https://5cf4a2c2512a2.streamlock.net/tvmaismarica/tvmaismarica/playlist.m3u8
 http://tvgrandenatalhd.duckdns.org:8080/hls/live.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/keCbpIP.png" group-title="CANAIS: VARIEDADES", TV CIDADE CANAL 9
 https://59f1cbe63db89.streamlock.net:1443/tvcidade/_definst_/tvcidade/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/ix2GtVx.png" group-title="CANAIS: VARIEDADES", TV MASTER PB
-https://virtues.es:1936/tvmaster/tvmaster/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/PWcD36m.png" group-title="CANAIS: VARIEDADES", TV PRECABURA
 http://srv1.zcast.com.br/tvprecabura/tvprecabura/playlist-480p.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/hBw3n2j.png" group-title="CANAIS: VARIEDADES", TV CN AGITOS
@@ -508,31 +488,21 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f5c216df
 https://stmv1.srvif.com/startrek/startrek/chunklist_w1289506923.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="CANAIS: 24 HORAS", TURMA DA MÔNICA (720p)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f997e44949bc70007a6941e/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1eed3c29b39600073e2ec0/colorLogoPNG.png" group-title="CANAIS: 24 HORAS", OS TRÊS PATETAS
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1eed3c29b39600073e2ec0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DRAMA | ERÓTICO", AS FILHAS DO FOGO (1978)
-http://archive.org/download/AsFilhasDoFogo1978/As%20Filhas%20do%20Fogo%201978.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/18/08/27/19/55/1504668.jpg" group-title="TERROR", APARTAMENTO 212: A Infestação
 https://lh3.googleusercontent.com/YsVPOiy90bbordh4Jp6A1z41EikrRqD-ehJ_DHXE0KbZmz_vWEtJvpWAI0UNa3dwHex81MiD3nXm8fAry9ssKQNlXEtMaT8hgyoiYzWnluj2V91yXEo5mbv4c8c2jhnOY-2Fw6Ccvss=m22
 #EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/c_310_420/medias/nmedia/18/92/61/33/20208868.jpg" group-title="FANTASIA | MUSICAL", A FANTÁSTICA FÁBRICA DE CHOCOLATE - Willy Wonka & the Chocolate Factory (1971)
 https://lh3.googleusercontent.com/l9YmWBrRDMCunn7Hq9bFpB-2fftPHGtS_oUBULFyBDiYObED6PHoblpLYAFLL_tJJsDt8hFBR_sVQa8bRFGI16pZckY_4lA84QLwWk5sjv7hWLjOJf87ZoE206QdENJNABDSgzlH1YX1IZrP9NdXFC_z7seXoym6c4Q2ETOr5hwsH87yFQ3MKC-2gxKYecneb9M1dVpn5x5HscFFRDEP40j05MFZHhcir-tzrF2wGI5cUNAI7BtdpxQy7TeWjjzkxeObl7oFHtNgPoyQStlUwAzBBzOHrGLbuBJMvk4d20dQl_oTPK-sgrt5pK0uQdXSBw2UZYKx6lJB0-pJiM28TEmEPv1Md84LfrssdpHrd3O1OKK6OmvwBCvmF2NrEp9WVFd0dCW8wFfTKJhlobT_VhXJC5v54CLBG23cXVKOCR0I2T6C8jxnb5aE5cIVi-_mq4KHPPEsqe-G6NvqGMar6T3cfqI_phvtzdhxv2X5tfKvSMmOGp5MYb9bDEmmh0g-RInFEFibEPE4iNBpg1TAIYkZn3Agr4yOhSrcQlAH-XkVXnfn2gboH5uWiLteoJOBYbQjfh7wTTz3-FBIPyR3bMSaAwXaY4-Ugh3dW6WdpG6eUB4MXU7LS5eWRWc4QpfVURP5VYMpsgRwCZF7E8LgpK8noEZgI9vYXA=s250-k-rw-no-m18
-#EXTINF:-1 tvg-id="https://www.vix.com/tv/on-demand" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=200,format=auto/restricted-area_pt/restricted-area_pt_200x300.jpg" group-title="SUSPENSE | TERROR", ACAMPAMENTO SELVAGEM (2019)
-https://play.pongalo.com/restricted-area_pt/restricted-area_pt_1-1/play_v1_hls_720p.m3u8
-#EXTINF:-1 tvg-id="https://www.vix.com/tv/on-demand" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=200,format=auto/in-her-skin_pt/in-her-skin_pt_200x300.jpg" group-title="CRIME | DRAMA | SUSPENSE", A VÍTIMA PERFEITA (2009)
-https://play.pongalo.com/in-her-skin_pt/in-her-skin_pt_1-1/play_v1_hls_720p.m3u8
 #EXTINF:-1 tvg-id="https://www.bitchute.com/" tvg-logo="https://image.tmdb.org/t/p/original//AoLzLn8Z5akd1zHfBcrIiF2MdPw.jpg" group-title="SUSPENSE", AMNÉSIA (2000)
 https://zggg98sgwbg1gh.bitchute.com/P2tQxCZbN8Pf/EmnCTbJHPEsy.mp4
-#EXTINF:-1 tvg-id="https://www.vix.com/tv/on-demand" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=200,format=auto/amnesiac_pt/amnesiac_pt_200x300.jpg" group-title="DRAMA | SUSPENSE | TERROR", AMNÉSIA (2014)
-https://play.pongalo.com/amnesiac_pt/amnesiac_pt_1-1/play_v1_hls_720p.m3u8
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A50Ngq9lh9aCTGHC6kttrppHNoF.jpg" group-title="AÇÃO | AVENTURA | CRIME", AVES DE RAPINA: ARLEQUINA E SUA EMANCIPACAO FANTABULOSA (2020)
 https://is.gd/Arlequina
 #EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://image.tmdb.org/t/p/original//h2OCcYwUGqSBvqHjE3QBtTNeKXY.jpg" group-title="SUSPENSE | TERROR", A FORCA 2: SEGUNDO ATO (2019)
 https://video.wixstatic.com/video/834009_4c37082d84bb4594b93446e497ab16d9/720p/mp4/file.mp4
-#EXTINF:-1 tvg-id="https://www.vix.com/tv/on-demand" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/w=140,h=150,fit=crop,q=90,format=auto/house-elm-lake_pt/house-elm-lake_pt_200x300.jpg" group-title="TERROR", A MALDIÇÃO DA CASA DO LAGO (2017)
-https://play.pongalo.com/house-elm-lake_pt/house-elm-lake_pt_1-1/play_v1_hls_720p.m3u8
-#EXTINF:-1 tvg-id="https://www.vix.com/tv/on-demand" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/w=140,h=150,fit=crop,q=90,format=auto/its-alive_pt/its-alive_pt_200x300.jpg" group-title="TERROR", ANJO MALDITO (2009)
-https://play.pongalo.com/its-alive_pt/its-alive_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:-1 tvg-id="https://supertela.vg/" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/w=140,h=150,fit=crop,q=90,format=auto/house-elm-lake_pt/house-elm-lake_pt_200x300.jpg" group-title="TERROR", A MALDIÇÃO DA CASA DO LAGO (2017)
+https://a-delivery49.mxcontent.net/v/37053ea3fca1ac472f6c4380661f3fae.mp4?s=d0nRVun3MZ01C3wkRQOjUw&e=1717544130&_t=1717526175
+#EXTINF:-1 tvg-id="https://supertela.vg/" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/w=140,h=150,fit=crop,q=90,format=auto/house-elm-lake_pt/house-elm-lake_pt_200x300.jpg" group-title="TERROR", A MALDIÇÃO DA CASA DO LAGO (2017)
+https://workerproxy.warezcdn.workers.dev/?url=https://cloclo53.cloud.mail.ru/weblink/view/1TLR/cAXpWY8P7
 #EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://image.tmdb.org/t/p/original/pWFo72g7YIcc5ADZT9b6LzP6T6K.jpg" group-title="SUSPENSE | TERROR", A DEUSA DA VINGANÇA (2017)
 https://video.wixstatic.com/video/834009_af347f6639b8425691592a4371b8a60a/720p/mp4/file.mp4
 #EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://image.tmdb.org/t/p/original/lVVv2ULxGrzxtXHVIkFIXoMWgCb.jpg" group-title="SUSPENSE | TERROR", APRISIONADOS (2017)
@@ -540,7 +510,7 @@ https://video.wixstatic.com/video/834009_4f3919c40f3f42d78e0cf9b0fcfdd909/720p/m
 #EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://image.tmdb.org/t/p/original/5DUGK2WvnyiBJwKOYhTR9FHx2Mh.jpg" group-title="F. CIENTÍFICA | SUSPENSE | TERROR", ANIQUILAÇÃO (2018)
 https://video.wixstatic.com/video/834009_544a11bcabc645a994bcb62bb1e5346f/480p/mp4/file.mp4
 #EXTINF:-1 tvg-id="http://suatela.net/home" tvg-logo="http://suatela.net/filme/a-casa-sombria" group-title="MISTÉRIO | SUSPENSE | TERROR", A CASA SOMBRIA (2021)
-http://6da15e7a4d.uv0536.tk:8880/deregodego/novosup/filmcucu/1/acsasmbriaDUB.mp4
+https://7da15e7a4d.misterkobe.shop/deregodego/novosup/filmcucu/1/acsasmbriaDUB.mp4
 #EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://superflixfilmes.net/wp-content/uploads/2021/09/fV5kUiiazJ90KmPYcXyc6tyknku-200x300.jpg" group-title="SUSPENSE | TERROR", A CASA DO MEDO (2018)
 https://video.wixstatic.com/video/834009_ee54712299d5437d9422822670dc49ca/480p/mp4/file.mp4
 #EXTINF:-1 tvg-logo="https://superflixfilmes.net/wp-content/uploads/2021/09/fV5kUiiazJ90KmPYcXyc6tyknku-200x300.jpg" group-title="SUSPENSE | TERROR", A CASA DO MEDO
@@ -608,7 +578,7 @@ https://video.wixstatic.com/video/834009_b75c2cee4e594fcab16c8bbc21110b42/720p/m
 #EXTINF:-1 tvg-id="https://www.bitchute.com/" tvg-logo="https://www.bitchute.com/static/v137/images/blank_640x360.png" group-title="TERROR", A MALDIÇÃO (1996)
 https://seed151.bitchute.com/DayJajJlKyQk/THwY0s2s2j0y.mp4
 #EXTINF:-1 tvg-id="http://suatela.net/home" tvg-logo="https://megafilmessonlinebr.net/wp-content/uploads/2022/07/plS7R81TAtIJxCIW7PIze5vmy5A-200x300.jpg" group-title="DRAMA | FANTASIA | TERROR", A MALDIÇÃO 2021
-http://9da15e7a4d.mtech-ltd.gq:8880/deregodego/lastdance/filmcucu/1/4m4ld1c4oDUB.mp4
+https://9da15e7a4d.misterkobe.shop/deregodego/lastdance/filmcucu/1/4m4ld1c4oDUB.mp4
 #EXTINF:-1 tvg-id="https://www.bitchute.com/" tvg-logo="https://www.bitchute.com/static/v137/images/blank_640x360.png" group-title="TERROR", ASILO DO PAVOR (1982)
 https://seed151.bitchute.com/DayJajJlKyQk/zGl9RPXNJDX2.mp4
 #EXTINF:-1 tvg-id="https://www.bitchute.com/" tvg-logo="https://www.bitchute.com/static/v137/images/blank_640x360.png" group-title="TERROR", A CASA DOS 1000 CORPOS (2003)
@@ -621,42 +591,32 @@ https://video.wixstatic.com/video/a07189_1f3c2f9a50bb4a7ea3c3629940b642f3/720p/m
 https://seed163.bitchute.com/Km2HxyvUDtHt/bjRdJ1PbK8Rj.mp4
 #EXTINF:-1 tvg-id="https://www.bitchute.com/" tvg-logo="https://imgdb.link/uploads/2018/05/a-sombra-do-inimigo.jpg" group-title="AÇÃO | POLICIAL", A SOMBRA DO INIMIGO (2012)
 https://seed151.bitchute.com/Km2HxyvUDtHt/qyZerlDedL1A.mp4
-#EXTINF:-1 tvg-id="https://pobreflix.cc/" tvg-logo="https://image.tmdb.org/t/p/w185/cYJU3VQOfb07FyGTHeSMMz9qTcD.jpg" group-title="TERROR", A CASA PROFUNDA (2021)
-https://s300.fofoquei.com/storage1/filmes/tt11686490/tt11686490.m3u8
 #EXTINF:-1 tvg-id="https://gofilmes.me/s/" tvg-logo="https://image.tmdb.org/t/p/w185/cxd2as1dyaO9845ic5PhC2l1EVZ.jpg" group-title="TERROR", A HORA DO EXORCISMO (2020) 94 Min.
 https://video.wixstatic.com/video/834009_3402debb89794d26a82dbdedd553be32/720p/mp4/file.mp4
-#EXTINF:-1 tvg-id="https://www.vixbrasiltv.com/tv/on-demand" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=200,format=auto/spionen_pt/spionen_pt_200x300.jpg" group-title="DRAMA | GUERRA | SUSPENSE", A ESPIÃ (2019) 1H 49min Baseado em uma história real
-https://play.prod.gcp.vix.services/spionen_pt/spionen_pt_1-1/play_v1_hls_720p.m3u8
-#EXTINF:-1 tvg-id="https://www.vixbrasiltv.com/tv/on-demand" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=200,format=auto/beyond-suspicion_pt/beyond-suspicion_pt_200x300.jpg" group-title="DRAMA | SUSPENSE", ALÉM DA SUSPEITA (2011) 1h 32min
-https://play.prod.gcp.vix.services/beyond-suspicion_pt/beyond-suspicion_pt_1-1/play_v1_hls_720p.m3u8
-#EXTINF:-1 tvg-id="https://www.vixbrasiltv.com/tv/on-demand" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=200,format=auto/mechanic_pt/mechanic_pt_200x300.jpg" group-title="AÇÃO | CRIME | SUSPENSE", ASSASSINO A PREÇO FIXO (2011) 1h 30min
-https://play.prod.gcp.vix.services/mechanic_pt/mechanic_pt_1-1/play_v1_hls_720p.m3u8
-#EXTINF:-1 tvg-id="https://www.vixbrasiltv.com/tv/on-demand" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/w=140,h=150,fit=crop,q=90,format=auto/encounter_pt/encounter_pt_200x300.jpg" group-title="SUSPENSE | TERROR", AMERICAN POLTERGEIST - POSSUIDOS (2016) 1h 22min
-https://play.prod.gcp.vix.services/encounter_pt/encounter_pt_1-1/play_v1_hls_720p.m3u8
+#EXTINF:-1 tvg-id="https://suatela.net/home" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=200,format=auto/mechanic_pt/mechanic_pt_200x300.jpg" group-title="AÇÃO | CRIME | SUSPENSE", ASSASSINO A PREÇO FIXO (2011) 1h 30min
+https://video.wixstatic.com/video/db47f8_3df809f3aa5a4fb0ad414fa71a8fdccc/480p/mp4/file.mp4
+#EXTINF:-1 tvg-id="https://suatela.net/home" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/w=140,h=150,fit=crop,q=90,format=auto/encounter_pt/encounter_pt_200x300.jpg" group-title="SUSPENSE | TERROR", AMERICAN POLTERGEIST - POSSUIDOS (2016) 1h 22min
+https://video.wixstatic.com/video/db47f8_680db124f0824365a1562859feaa4202/360p/mp4/file.mp4
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CRIME | DRAMA | POLICIAL | SUSPENSE", AS VIÚVAS - CAM
 https://lh3.googleusercontent.com/l-2IdPQRxxQVvo6A_ToKseaiQjbpUvARdPKUpGv2gw5ty-bq1I7saQKEicfo9fSdyeOCbwJFSjVesvVyIUdc9QkdG5Qqz06XPds_ga2fveCvAaYlGPbQowuoCPhRpw7hD1xAp132cw=m18
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="AVENTURA | COMÉDIA | DRAMA", A PRINCESA E A PLEBEIA
 https://lh3.googleusercontent.com/w_vzi40JL6EDzFQ-XJZDhItvTgzxuAMrHgUVPVC-vC7WSZUk95hg50WEK1j_XtLxDlsJIjwgkHRhPW3Nt5Q9BF7zB5SVLdPt31wi3QAR1YID1QWA9JaCSvt8EcQoKNG6NLjcB_oSlA=m22
-#EXTINF:-1 tvg-id="https://www.vixbrasiltv.com/tv/on-demand" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=200,format=auto/texas-killing-fields_pt/texas-killing-fields_pt_200x300.jpg" group-title="DRAMA", AMOR DOENTIO (2021) 1h 22min
-https://play.prod.gcp.vix.services/isthmus_pt/isthmus_pt_1-1/play_v1_hls_720p.m3u8
-#EXTINF:-1 tvg-id="https://www.vixbrasiltv.com/tv/on-demand" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=200,format=auto/clearing_pt/clearing_pt_200x300.jpg" group-title="TERROR", ATÉ O FINAL (2021) 1h 25min
-https://play.prod.gcp.vix.services/clearing_pt/clearing_pt_1-1/play_v1_hls_720p.m3u8
-#EXTINF:-1 tvg-id="https://www.vixbrasiltv.com/tv/on-demand" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/w=140,h=150,fit=crop,q=90,format=auto/alice-darker-mirror_pt/alice-darker-mirror_pt_200x300.jpg" group-title="AVENTURA | FANTASIA | SUSPENSE", ALICE - O LADO NEGRO DO ESPELHO (2016) 2h 3min
-https://play.prod.gcp.vix.services/alice-darker-mirror_pt/alice-darker-mirror_pt_1-1/hls_2500.m3u8
-#EXTINF:-1 tvg-id="https://www.vixbrasiltv.com/tv/on-demand" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=200,format=auto/face-angel_pt/face-angel_pt_200x300.jpg" group-title="CRIME | DRAMA | SUSPENSE", A FACE DE UM ANJO (2014) 1h 40min
-https://play.prod.gcp.vix.services/face-angel_pt/face-angel_pt_1-1/play_v1_hls_720p.m3u8
+#EXTINF:-1 tvg-id="https://suatela.net/home" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=200,format=auto/texas-killing-fields_pt/texas-killing-fields_pt_200x300.jpg" group-title="DRAMA", AMOR DOENTIO (2021) 1h 22min
+https://8da15e7a4d.misterkobe.shop/deregodego/lastdance/filmcucu/2/4m0rd03nt1oDUB.mp4
+#EXTINF:-1 tvg-id="https://supertela.vg/" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/w=140,h=150,fit=crop,q=90,format=auto/alice-darker-mirror_pt/alice-darker-mirror_pt_200x300.jpg" group-title="AVENTURA | FANTASIA | SUSPENSE", ALICE - O LADO NEGRO DO ESPELHO (2016) Mixdrop
+https://a-delivery34.mxcontent.net/v/08824cd12ec2ff34af337054a19e355d.mp4?s=_fpCcCE5Qu4DmVmiBnV2kw&e=1717548171&_t=1717533610
+#EXTINF:-1 tvg-id="https://supertela.vg/" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/w=140,h=150,fit=crop,q=90,format=auto/alice-darker-mirror_pt/alice-darker-mirror_pt_200x300.jpg" group-title="AVENTURA | FANTASIA | SUSPENSE", ALICE - O LADO NEGRO DO ESPELHO (2016) WarezCDN
+https://workerproxy.warezcdn.workers.dev/?url=https://cloclo63.cloud.mail.ru/weblink/view/MbEk/aKbwz65m1
+#EXTINF:-1 tvg-id="https://supertela.vg/" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=200,format=auto/face-angel_pt/face-angel_pt_200x300.jpg" group-title="CRIME | DRAMA | SUSPENSE", A FACE DE UM ANJO 2014 Mixdrop
+https://a-delivery22.mxcontent.net/v/9e54277afb898adb35965bbdbf759386.mp4?s=f4jFGpyvRQqzgufuuqnknw&e=1717548882&_t=1717535637
+#EXTINF:-1 tvg-id="https://supertela.vg/" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=200,format=auto/face-angel_pt/face-angel_pt_200x300.jpg" group-title="CRIME | DRAMA | SUSPENSE", A FACE DE UM ANJO 2014 WarezCDN
+https://workerproxy.warezcdn.workers.dev/?url=https://cloclo57.cloud.mail.ru/weblink/view/n7qB/UvFZ9ryFJ
 #EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="https://image.tmdb.org/t/p/w185/17fqc7EvBTAvc0xqrOwjgiuLa3p.jpg" group-title="DRAMA | MISTÉRIO | SUSPENSE", A MALDIÇÃO DE ROSE 2020
-http://10da15e7a4d.consejodentistas.gq:8880/deregodego/lastdance/filmcucu/1/4m4ld1c4od3r0s3DUB.mp4
-#EXTINF:-1 tvg-id="https://tv.kinopop.com/" tvg-logo="https://tv.kinopop.com/img/thumbnail.php?url=https://cdn044.fractalmedia.es/thumb/ubV9s2ZHZ1_w640.jpg&w=200&p=1" group-title="TERROR", A ILHA DO MAL
-https://cdn038.fractalmedia.es/hls_adaptive/e182a42cfa8df79af21a0a01ad6bda78/ubV9s2ZHZ1/720/index.m3u8
-#EXTINF:-1 tvg-id="https://tv.kinopop.com/" tvg-logo="https://tv.kinopop.com/img/thumbnail.php?url=https://cdn030.fractalmedia.es/thumb/QpbCivBmtA_w640.jpg&w=200&p=1" group-title="TERROR", A GRANDE CAÇADA
-https://cdn045.fractalmedia.es/hls_adaptive/419e2463489c8396cd3d78f546ef2313/QpbCivBmtA/720/index.m3u8
-#EXTINF:-1 tvg-id="https://tv.kinopop.com/" tvg-logo="https://tv.kinopop.com/img/thumbnail.php?url=https://cdn034.fractalmedia.es/thumb/5D4AQ74jK8_w640.jpg&w=200&p=1" group-title="TERROR", A INVOCAÇÃO
-https://cdn044.fractalmedia.es/hls_adaptive/3945ab0088008c419749d44eaff4df71/5D4AQ74jK8/720/index.m3u8
-#EXTINF:-1 tvg-id="https://tv.kinopop.com/" tvg-logo="https://tv.kinopop.com/img/thumbnail.php?url=https://cdn045.fractalmedia.es/thumb/L7fc3bRLg3_w640.jpg&w=200&p=1" group-title="TERROR", A INVOCAÇÃO 2
-https://cdn043.fractalmedia.es/hls_adaptive/c1d77978a22be12f8d33c48c66e56555/L7fc3bRLg3/720/index.m3u8
-#EXTINF:-1 tvg-logo="https://seriesflix.top/wp-content/uploads/2018/02/1.jpg" group-title="COMÉDIA", APOSENTADORIA VOLUNTÁRIA 2018
-https://goo.gl/nKDjgG
+https://7da15e7a4d.misterkobe.shop/deregodego/lastdance/filmcucu/1/4m4ld1c4od3r0s3DUB.mp4
+#EXTINF:-1 tvg-id="https://supertela.vg/" tvg-logo="https://tv.kinopop.com/img/thumbnail.php?url=https://cdn045.fractalmedia.es/thumb/L7fc3bRLg3_w640.jpg&w=200&p=1" group-title="TERROR", A INVOCAÇÃO 2 WarezCDN
+https://workerproxy.warezcdn.workers.dev/?url=https://cloclo61.cloud.mail.ru/weblink/view/3TTo/5hf32wZSN
+#EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="https://seriesflix.top/wp-content/uploads/2018/02/1.jpg" group-title="COMÉDIA", APOSENTADORIA VOLUNTÁRIA 2018
+https://video.wixstatic.com/video/a07189_812aca840e4f49dda5243659b1b08811/720p/mp4/file.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/nFPnUV" group-title="COMÉDIA | FICÇÃO", A REPARTIÇÃO DO TEMPO 2018
 https://goo.gl/sSvuZV
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xwsZmiLnwaG6vBOsd5vsVUaK10t.jpg" group-title="DOCUMENTÁRIO | DRAMA", ALL EYEZ ON ME A HISTÓRIA DE TUPAC (2018)
@@ -902,6 +862,8 @@ http://9da15e7a4d.farpasmaster.shop/deregodego/newhasta/filmcucu/1/d3st1n0s4d3r1
 http://7da15e7a4d.farpasmaster.shop/deregodego/newhasta/filmcucu/1/d3z3s3sf4c4d4sDUB.mp4
 #EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="https://image.tmdb.org/t/p/w300/aIVu5nMOCNZvOYs3Uhv8TnLvcYk.jpg" group-title="COMÉDIA | DRAMA", DIÁRIO DA MINHA VAGINA 2024
 http://6da15e7a4d.misterkobe.shop/deregodego/newhasta/filmcucu/2/d14r10d4m1nh4v4g1n4DUB.mp4
+#EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="https://media.fstatic.com/KpUP78-aW2yVcarBQl00u_Bl6x4=/210x312/smart/filters:format(webp)/media/movies/covers/2023/03/cats_Mchz1To.jpg" group-title="AÇÃO | COMÉDIA", Duro de Atuar 2023
+https://6da15e7a4d.misterkobe.shop/deregodego/lastdance/filmcucu/1/dur0d34tu4rDUB.mp4
 #EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="https://i.topflix.vc/testme/dle2/posts/2024-05/3yTdtbtjlczr3fSoZWUcPkkaZSi.jpg" group-title="AÇÃO | COMÉDIA", Duro de Atuar 2 2024
 https://9da15e7a4d.misterkobe.shop/deregodego/newhasta/filmcucu/2/dur0d4tu4r2DUB.mp4
 
@@ -1644,6 +1606,8 @@ https://8da15e7a4d.misterkobe.shop/deregodego/lastdance/filmcucu/2/tr4nc4d4DUB.m
 https://9da15e7a4d.misterkobe.shop/deregodego/lastdance/filmcucu/1/td03mt0d0lgr4msmt3mp0DUB.mp4
 #EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="https://filmessgratis.net/wp-content/uploads/2022/10/s0aVEjT1DWopUrJehACWZyqpO99-90x135.jpg" group-title="TERROR", THE POWER – HORROR NA ESCURIDÃO (2021)
 http://8da15e7a4d.farpasmaster.shop/deregodego/lastdance/filmcucu/2/th3pw3rhrr0rn4scur1d4oDUB.mp4
+#EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="https://media.fstatic.com/H2b9MeD8SYzKcjF2Y176T8iffTg=/210x312/smart/filters:format(webp)/media/movies/covers/2024/02/cats_NTaxJJ3.jpg" group-title="SUSPENSE | TERROR", Turno Maldito 2023
+https://9da15e7a4d.misterkobe.shop/deregodego/newhasta/filmcucu/2/turn0m4ld1t0DUB.mp4
 
 #EXTINF:-1 tvg-logo="https://filmeflix.tv/wp-content/uploads/2021/05/wYqmuxd9jNFLf3gtQY5vbAUgiGk-200x300.jpg" group-title="DRAMA | SUSPENSE | TERROR", UM LUGAR SILENCIOSO: Parte 2 (2021)
 https://video.wixstatic.com/video/834009_d702abb4661b4c8e9484302b2f19b82b/720p/mp4/file.mp4?https://gofilmes.me/b/
@@ -1680,8 +1644,6 @@ https://be2719.rcr22.ams01.cdn112.com/hls2/01/03838/2ok2dcnv4q0j_n/index-v1-a1.m
 https://858142515.tapecontent.net/radosgw/w7ay7eaBq3IJqVZ/qmtOX-b2iOBri4ji_4CT2rEPe_xNPVDfInP6RNhh3_uJ_R38JxKv7X5FmrSQuJ7B-6L47FOyi9hPkjw1eLy4KUDmrdWIK7endDMH00HMPf0mbhbDtbTjJRJKKR7Cw4LFWW4ZcDyaxyRZx4iNxb0A9HQEGZ7GNwUK5v2j3detrLLBrKwp4UAVuSuL39GLBopMH10ikyO3ZJYCSW8ImndxrVFmqgsT2Um5P-IaDibo-T3VpPMFNHyvhQhq0o6pZT5amrys_5CuYewyakNA7RpxsZT1rDdj4VZa9AeDcVmzzocL3sn3wEFSmh3zBbk/vai-dar-nada-dublado-www.encontrei.tv?stream=1
 #EXTINF:-1 tvg-id="https://www.vixbrasiltv.com/tv/on-demand" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=200,format=auto/vendese_pt/vendese_pt_200x300.jpg" group-title="NACIONAL | TERROR", VENDE-SE IMÓVEL (2019)
 https://play.prod.gcp.vix.services/vendese_pt/vendese_pt_1-1/play_v1_hls_720p.m3u8
-#EXTINF:-1 tvg-id="https://www.vixbrasiltv.com/" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/w=140,h=150,fit=crop,q=90,format=auto/living-dark_pt/living-dark_pt_200x300.jpg" group-title="TERROR", VIVENDO NA ESCURIDÃO - A HISTÓRIA DO TED, O EXPLORADOR DE CAVERNAS (2015)
-https://play.prod.gcp.vix.services/living-dark_pt/living-dark_pt_1-1/hls_2500.m3u8
 
 #EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://image.tmdb.org/t/p/original//yeHRsKOlNDsbEIALS1ve6S42Nl6.jpg" group-title="AÇÃO | SUSPENSE", WHEELMAN (2017)
 https://video.wixstatic.com/video/834009_c48666f399e44a48ba73cdc910b1b57c/720p/mp4/file.mp4
